@@ -1,0 +1,108 @@
+.blue-bg {
+	background-color: #FFAE27;
+}
+.yellow-bg {
+	background-color: #FFAE27;
+}
+.contact-form-wrap {
+	padding: 86px 60px;
+}
+.contact-title {
+	font-size: 30px;
+	line-height: 40px;
+	font-weight: 900;
+	color: #fff;
+	margin-bottom: 40px;
+}
+.contact-form-style > input {
+	background: #f2f2f2;
+	border: none;
+	height: 46px;
+	padding-left: 15px;
+	width: 100%;
+}
+.contact-form-style > textarea {
+	border: none;
+	background: #f2f2f2;
+	border-radius: 0;
+	height: 135px;
+	padding: 15px;
+	margin-bottom: 20px;
+	width: 100%;
+}
+.form-messege.success {
+	color: #1dbc51;
+	font-weight: 700;
+}
+.form-messege.error {
+	color: #ff1313;
+}
+.edubuzz-address {
+	padding: 89px 60px;
+	background-color: #1F3971;
+}
+.edubuzz-address > p {
+	font-size: 14px;
+	color: #fff;
+	line-height: 26px;
+	margin-bottom: 35px;
+}
+.edubuzz-address > ul {
+	max-width: 380px;
+	padding: 0;
+	margin-bottom: 35px;
+}
+.edubuzz-address > ul > li {
+	border-top: 1px solid #4B5B7D;
+	list-style: none;
+	font-size: 14px;
+	line-height: 25px;
+	color: #fff;
+	padding: 10px 0;
+}
+.edubuzz-address > ul > li i {
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	width: 40px;
+}
+.contact-social h3 {
+	color: #fff;
+	margin-bottom: 20px;
+}
+.contact-social li {
+	display: inline-block;
+	list-style: none;
+	margin: 0 5px;
+}
+.contact-social li:first-child {
+	margin-left: 0;
+}
+.contact-social li a {
+	font-size: 20px;
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	border: 1px solid #fff;
+	display: block;
+	text-align: center;
+	border-radius: 100%;
+	-webkit-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+	color: #fff;
+}
+.contact-social li a:hover {
+	background-color: #FFAE27;
+	color: #fff;
+	border-color: #FFAE27;
+}
+.contact-form-style .button-default {
+	border: 0;
+	border-radius: 50px;
+	font-weight: 600;
+	cursor: pointer;
+}
+.contact-form-style .button-default:hover {
+	color: #FFAE27;
+	background-color: #1F3971;
+}
